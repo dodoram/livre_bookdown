@@ -1,4 +1,6 @@
 # Chapitre 2
 
 
-on n'a pas besoin d'éditeur ymal pour les chapitres après le premier qui doit être nommé index
+on n'a pas besoin d'éditeur ymal pour les chapitres après le premier qui doit être nommé index.
+
+Génial ! 
